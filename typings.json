@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "debug": "registry:npm/debug#2.0.0+20160511151334"
+  },
+  "globalDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20160417213236",
+    "pixi.js": "registry:dt/pixi.js#3.0.9+20160404013751"
+  }
+}
